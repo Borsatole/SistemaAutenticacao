@@ -1,5 +1,3 @@
-# SISTEMA DE AUTENTICAÇÃO PHP + REACT
-
 # 🛡️ SISTEMA DE AUTENTICAÇÃO PHP + REACT
 
 ### 💬 Descrição
@@ -27,4 +25,26 @@
   </a>
 </p>
 
-### 🔗 Como Instalar?
+### 🚀 Como Instalar?
+
+<p> 
+## 📁 Configuração do Backend
+
+1. **Instale o Composer** (caso ainda não tenha instalado).
+2. **Instale o XAMPP** ou outro servidor local de sua preferência.
+3. **Mova a pasta `backend`** para dentro da pasta do seu servidor.
+4. **Acesse sua pasta `backend` pelo terminal e rode o comando "composer require firebase/php-jwt".**
+5. **Acessando pelo localhost o endereço deve ser `http://localhost/Backend/Auth/login.php`**
+
+</p>
+
+<p> 
+## 📁 Configuração do FrontEnd
+
+1. **Instale o Composer** (caso ainda não tenha instalado).
+2. **Instale o XAMPP** ou outro servidor local de sua preferência.
+3. **Mova a pasta `backend`** para dentro da pasta do seu servidor.
+4. **Acesse sua pasta `backend` pelo terminal e rode o comando "composer require firebase/php-jwt".**
+5. **Acessando pelo localhost o endereço deve ser `http://localhost/Backend/Auth/login.php`**
+
+</p>
