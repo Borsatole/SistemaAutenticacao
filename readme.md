@@ -32,13 +32,6 @@
 ```sh
 git clone https://github.com/Borsatole/SistemaAutenticacao.git
 cd SistemaAutenticacao
-
-`Acesse a pasta do projeto`
-
-```
-
-cd SistemaAutenticacao
-
 ```
 
 <p>
