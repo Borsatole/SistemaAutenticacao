@@ -27,7 +27,7 @@
 
 ### 🚀 Como Instalar?
 
-## `Clone esse Repositorio`
+`Clone esse Repositorio`
 
 ```
 git clone https://github.com/Borsatole/SistemaAutenticacao.git
