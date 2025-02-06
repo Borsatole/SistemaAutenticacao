@@ -27,19 +27,21 @@
 
 ### 🚀 Como Instalar?
 
-`Clone esse Repositorio`
+### 📥 1. Clone o Repositório
 
-```
+```sh
 git clone https://github.com/Borsatole/SistemaAutenticacao.git
-```
+cd SistemaAutenticacao
 
 `Acesse a pasta do projeto`
 
 ```
+
 cd SistemaAutenticacao
+
 ```
 
-<p> 
+<p>
 ## 📁 Configuração do Backend
 
 1. **Instale o Composer** (caso ainda não tenha instalado).
@@ -48,7 +50,9 @@ cd SistemaAutenticacao
 4. **Acesse sua pasta `backend` pelo terminal e rode o comando .**
 
 ```
+
 composer require firebase/php-jwt
+
 ```
 
 5. **Acessando pelo localhost o endereço deve ser `http://localhost/Backend/Auth/login.php`**
@@ -56,20 +60,24 @@ composer require firebase/php-jwt
 
 </p>
 
-<p> 
+<p>
 ## 📁 Configuração do FrontEnd
 
 1. **Acesse a pasta FrontEnd** e rode o seguinte comando para instalar as dependencias.
 
 ```
+
 npm install
+
 ```
 
 2. **Apos a instalação de todas dependencias basta rodar o comando**
 
 ```
+
 npm run dev
 
 ```
 
 </p>
+```
