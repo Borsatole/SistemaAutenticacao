@@ -27,7 +27,11 @@
 
 ### 🚀 Como Instalar?
 
-## `Clone esse Repositorio` git clone https://github.com/Borsatole/SistemaAutenticacao.git
+## `Clone esse Repositorio`
+
+```
+git clone https://github.com/Borsatole/SistemaAutenticacao.git
+```
 
 ```Terminal
 cd seu-repositorio/frontend
