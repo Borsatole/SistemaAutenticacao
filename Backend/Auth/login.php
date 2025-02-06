@@ -9,7 +9,7 @@ header("Access-Control-Allow-Headers: Content-Type, Authorization");
 header("Content-Type: application/json");
 
 // Dados para login
-$loginReal = "borsatole@admin.com";
+$loginReal = "admin@admin.com";
 $senhaReal = "admin";
 
 // imports
