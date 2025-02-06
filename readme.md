@@ -66,4 +66,6 @@ npm install
 npm run dev
 ```
 
+3. **Login: admin@admin.com Senha:admin**
+
 </p>
