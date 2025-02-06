@@ -33,8 +33,10 @@
 git clone https://github.com/Borsatole/SistemaAutenticacao.git
 ```
 
-```Terminal
-cd seu-repositorio/frontend
+`Acesse a pasta do projeto`
+
+```
+cd SistemaAutenticacao
 ```
 
 <p> 
@@ -43,7 +45,12 @@ cd seu-repositorio/frontend
 1. **Instale o Composer** (caso ainda não tenha instalado).
 2. **Instale o XAMPP** ou outro servidor local de sua preferência.
 3. **Mova a pasta `backend`** para dentro da pasta do seu servidor local.
-4. **Acesse sua pasta `backend` pelo terminal e rode o comando `composer require firebase/php-jwt`.**
+4. **Acesse sua pasta `backend` pelo terminal e rode o comando .**
+
+```
+composer require firebase/php-jwt
+```
+
 5. **Acessando pelo localhost o endereço deve ser `http://localhost/Backend/Auth/login.php`**
 6. **No seu MYSQL crie um database chamado `sistemacomauth` e depois importe o db.sql**
 
@@ -52,10 +59,17 @@ cd seu-repositorio/frontend
 <p> 
 ## 📁 Configuração do FrontEnd
 
-1. **Rode o ** (caso ainda não tenha instalado).
-2. **Instale o XAMPP** ou outro servidor local de sua preferência.
-3. **Mova a pasta `backend`** para dentro da pasta do seu servidor.
-4. **Acesse sua pasta `backend` pelo terminal e rode o comando "composer require firebase/php-jwt".**
-5. **Acessando pelo localhost o endereço deve ser `http://localhost/Backend/Auth/login.php`**
+1. **Acesse a pasta FrontEnd** e rode o seguinte comando para instalar as dependencias.
+
+```
+npm install
+```
+
+2. **Apos a instalação de todas dependencias basta rodar o comando**
+
+```
+npm run dev
+
+```
 
 </p>
